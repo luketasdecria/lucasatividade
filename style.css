@@ -1,0 +1,27 @@
+
+    
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e2d51a;
+        }
+
+        .container {
+            width: 800px;
+            margin: 0 auto; /* CENTRALIZA */
+            background-color: rgb(219, 20, 20);
+            padding: 20px;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto; /* centraliza a imagem */
+        }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        .homem_de_ferro {
+            border-radius: 35px;
+        }
+ 

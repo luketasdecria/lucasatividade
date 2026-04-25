@@ -2,19 +2,19 @@
     
         body {
             font-family: Arial, sans-serif;
-            background-color: #e2d51a;
+            background-color: 
         }
 
         .container {
             width: 800px;
-            margin: 0 auto; /* CENTRALIZA */
+            margin: 0 auto; 
             background-color: rgb(219, 20, 20);
             padding: 20px;
         }
 
         img {
             display: block;
-            margin: 0 auto; /* centraliza a imagem */
+            margin: 0 auto;  
         }
 
         h1, h2 {
